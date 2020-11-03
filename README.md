@@ -4,7 +4,7 @@ a simple autotyper
 ## directions
 follow these closely :)
 
-### imports:
+## imports:
 this code requires the imports random, time, and pynput
 
 ## how to run it:
